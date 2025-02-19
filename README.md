@@ -1,4 +1,4 @@
-# Bonga Box - Anonymous Reporting App
+<!-- # Bonga Box - Anonymous Reporting App
 
 **Bonga Box** is an anonymous reporting application designed to allow users to submit sensitive reports regarding issues such as Female Genital Mutilation (FGM), Gender-Based Violence (GBV), health crises, and other community concerns in a secure and private manner.
 
@@ -38,4 +38,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. -->
